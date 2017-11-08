@@ -3,7 +3,10 @@ Clipboard
 
 Clipboard management plugin for Cordova/PhoneGap that supports iOS, Android, and Windows Phone 8.
 
-## Usage
+## Usage of this copy that package.json added:
+	cordova plugin add https://github.com/januslo/CordovaClipboard.git
+
+## Orignal Version Usage
 
 Install the plugin using the CLI, for instance with PhoneGap:
 
