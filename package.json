@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-clipboard",
-  "version": "0.1.0",
+  "name": "januslo-cordova-plugin-clipboard",
+  "version": "0.1.1",
   "description": "Clipboard management plugin for Cordova/PhoneGap",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VersoSolutions/CordovaClipboard.git"
+    "url": "git+https://github.com/januslo/CordovaClipboard.git"
   },
   "keywords": [
     "cordova",
@@ -17,7 +17,7 @@
   "author": "Verso Solutions LLC",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VersoSolutions/CordovaClipboard.git/issues"
+    "url": "https://github.com/januslo/CordovaClipboard.git/issues"
   },
-  "homepage": "https://github.com/VersoSolutions/CordovaClipboard.git#readme"
+  "homepage": "https://github.com/januslo/CordovaClipboard.git#readme"
 }
